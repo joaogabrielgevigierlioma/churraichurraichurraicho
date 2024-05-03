@@ -3,10 +3,10 @@
 :root{
     --cor-de-fundo: #1E1E1E;
     --verde: #6FFF57;
-    --branco: #FFFFFF;
+    --branco: #db3131;
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
-    --texto-fundo: rgba(58, 55, 94, 0.3);
+    --texto-fundo: rgba(28, 167, 160, 0.3);
 }
  
 body{
@@ -101,6 +101,11 @@ body{
     color: var(--verde);
     text-transform: uppercase;
 }
+.contador{
+    font-size: 30px;
+    text-align: center;
+}
+
 
 
 
